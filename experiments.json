@@ -1,0 +1,16 @@
+{
+
+    "GENE_FAM" : ["BPY2", "CDY", "DAZ", "HSFY", "PRY", "RBMY", "TSPY", "VCY_chimp_bonobo", "VCY_human", "XKRY"],
+
+    "ROOT_OUT" : "/nfs/brubeck.bx.psu.edu/scratch4/ksahlin/amplicon_2021",
+    "ROOT_IN" : "/galaxy/home/ksahlin/prefix/source/isONcorrect",
+    "ANNOTATION" : "/nfs/brubeck.bx.psu.edu/scratch4/ksahlin/isoncorrect_eval/gtf_annotations",
+
+    "DATA" : "/nfs/brubeck.bx.psu.edu/scratch4/ksahlin/data/",
+    "HG38" : "/nfs/brubeck.bx.psu.edu/scratch6/ksahlin/data/HG38/hg38.fa",
+    "ENSEMBL" : "/nfs/brubeck.bx.psu.edu/scratch4/ksahlin/data/",
+    "TOOLS" :["isoncorrect"],
+    "GNUTIME" : "/usr/bin/time -v",
+    "SCRIPT_FOLDER" : "/galaxy/home/ksahlin/prefix/source/isONcorrect/scripts/",
+    "EXPERIMENT_ID" : "test"
+}

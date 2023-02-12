@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# RUN scripts e.g. as:   ./run_isocon  isonclust_cluster_fastq_folder  outfolder  nr_cores
+set -e
+if [ $# -ne 3 ]; then
+        echo "Usage: `basename $0` <isonclust_cluster_fastq_folder> <outfolder> <nr_cores>"
+        exit -1
+fi
+
+root=$1
+outfolder=$2
+nr_cores=$3
+
+IFS=$'\n'       # make newlines the only separator
+# set -f          # disable globbing
+
+for fastq_file in $root/*.fastq
+do
+
+	filename=$(basename -- "$fastq_file")
+	extension="${filename##*.}"
+	filename="${filename%.*}"
+	echo $fastq_file
+	echo $outfolder/$filename/
+	echo
+	IsoCon pipeline  --ignore_ends_len 15 --nr_cores $nr_cores  -fl_reads $fastq_file -outfolder $outfolder/$filename/ 
+	
+done
