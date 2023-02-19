@@ -1,0 +1,11 @@
+﻿chromosome,start,end,transcript_name,score,strand,type,transcript_biotype,species
+PRY_ENSG00000169789.10,11168,11237,PRY_CCDS14799.1,60,+,exon,protein-coding,Human reference
+PRY_ENSG00000169789.10,13812,13928,PRY_CCDS14799.1,60,+,exon,protein-coding,Human reference
+PRY_ENSG00000169789.10,23415,23674,PRY_CCDS14799.1,60,+,exon,protein-coding,Human reference
+PRY_ENSG00000169789.10,23499,24241,longer_from_REPLICATE1_transcript_30_support_6,60,+,exon,protein-coding,Chimpanzee 2
+PRY_ENSG00000169789.10,23535,24241,longer_from_REPLICATE1_transcript_6_support_3,60,+,exon,protein-coding,Bonobo
+PRY_ENSG00000169789.10,23054,23851,longer_from_REPLICATE1_transcript_11_support_4,60,-,exon,protein-coding,Gorilla
+PRY_ENSG00000169789.10,23467,24241,longer_from_REPLICATE1_transcript_30_support_3,60,+,exon,protein-coding,Bornean orangutan
+PRY_ENSG00000169789.10,23487,23887,longer_from_REPLICATE2_transcript_17_support_19,60,+,exon,protein-coding,Bornean orangutan
+PRY_ENSG00000169789.10,23500,24241,longer_from_REPLICATE2_transcript_48_support_3,60,+,exon,protein-coding,Bornean orangutan
+PRY_ENSG00000169789.10,22071,23731,REPLICATE1_transcript_9_support_11REPLICATE2_transcript_6_support_3,60,-,exon,protein-coding,Sumatran orangutan

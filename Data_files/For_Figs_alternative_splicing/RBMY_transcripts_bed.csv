@@ -1,0 +1,442 @@
+﻿chromosome,start,end,transcript_name,score,strand,type,transcript_biotype,species
+RBMY1A1_ENSG00000234414.8,2013,2122,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,2596,2700,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,5719,5897,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,7812,7965,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,9975,10090,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,11045,11156,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,11597,11708,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,12142,12253,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,13174,13285,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,13371,13460,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,13871,14170,RBMY1A_CCDS14796.1,60,+,exon,protein-coding,Human reference
+RBMY1A1_ENSG00000234414.8,25,148,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_239_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,35,148,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_36_support_10,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,35,148,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_40_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,35,148,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2009,2122,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2596,2700,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,5719,5897,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,7812,7965,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,9975,10090,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11045,11156,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11597,11708,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,12142,12253,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13371,13460,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13871,14446,REPLICATE1_transcript_38_support_6REPLICATE2_transcript_59_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,60,148,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2009,2122,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,2596,2700,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,5719,5897,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,7812,7965,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,9975,10090,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11045,11156,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,11597,11708,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,12142,12253,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13174,13285,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13371,13460,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13871,14446,REPLICATE1_transcript_115_support_4REPLICATE2_transcript_154_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,12198,12253,longer_from_REPLICATE1_transcript_166_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_166_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_166_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13257,13285,longer_from_REPLICATE1_transcript_227_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_227_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_227_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13427,13460,longer_from_REPLICATE1_transcript_160_support_7,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_160_support_7,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13700,14446,longer_from_REPLICATE2_transcript_21_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13791,14155,longer_from_REPLICATE2_transcript_8_support_4,60,-,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13883,14446,longer_from_REPLICATE2_transcript_299_support_9,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13899,14446,longer_from_REPLICATE2_transcript_139_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13901,14446,longer_from_REPLICATE1_transcript_212_support_8,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13901,14446,longer_from_REPLICATE1_transcript_214_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13923,14446,longer_from_REPLICATE2_transcript_4_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13926,14446,longer_from_REPLICATE1_transcript_106_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13940,14446,longer_from_REPLICATE2_transcript_210_support_4,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,13959,14438,longer_from_REPLICATE1_transcript_14_support_5,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,14006,14446,longer_from_REPLICATE2_transcript_135_support_4,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,14050,14446,longer_from_REPLICATE1_transcript_65_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,14066,14446,longer_from_REPLICATE1_transcript_279_support_15,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,14068,14446,longer_from_REPLICATE1_transcript_149_support_7,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,14068,14446,REPLICATE1_transcript_147_support_2REPLICATE2_transcript_188_support_7,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,14070,14438,longer_from_REPLICATE1_transcript_13_support_3,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,14110,14447,longer_from_REPLICATE2_transcript_8_support_2,60,+,exon,protein-coding,Human 1
+RBMY1A1_ENSG00000234414.8,10,148,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_191_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,35,148,REPLICATE1_transcript_8_support_9REPLICATE2_transcript_4_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2009,2122,REPLICATE1_transcript_8_support_9REPLICATE2_transcript_4_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2596,2700,REPLICATE1_transcript_8_support_9REPLICATE2_transcript_4_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,5719,5897,REPLICATE1_transcript_8_support_9REPLICATE2_transcript_4_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,7812,7965,REPLICATE1_transcript_8_support_9REPLICATE2_transcript_4_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,14064,14442,REPLICATE1_transcript_8_support_9REPLICATE2_transcript_4_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,40,148,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,827,886,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_274_support_6,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,40,148,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2009,2122,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2596,2700,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,5719,5897,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,7812,7965,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,9975,10090,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11045,11156,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11597,11708,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,12142,12253,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13174,13285,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13371,13460,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13871,14446,REPLICATE1_transcript_82_support_6REPLICATE2_transcript_67_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,47,148,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_170_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,59,148,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2009,2122,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,2596,2700,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,5719,5897,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,7812,7965,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,9975,10090,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11045,11156,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,11597,11708,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,12142,12253,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13174,13285,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13371,13460,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13871,14446,REPLICATE1_transcript_219_support_9REPLICATE2_transcript_204_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,12201,12253,longer_from_REPLICATE2_transcript_30_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_30_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_30_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_30_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13232,13285,longer_from_REPLICATE1_transcript_183_support_4,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_183_support_4,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_183_support_4,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13404,13460,longer_from_REPLICATE2_transcript_44_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_44_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13870,14446,REPLICATE1_transcript_50_support_5REPLICATE2_transcript_86_support_7,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13912,14446,longer_from_REPLICATE2_transcript_315_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13940,14446,longer_from_REPLICATE2_transcript_99_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13947,14446,REPLICATE1_transcript_177_support_6REPLICATE2_transcript_272_support_5,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13947,14444,longer_from_REPLICATE1_transcript_178_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13960,14446,longer_from_REPLICATE1_transcript_201_support_2,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13960,14446,longer_from_REPLICATE1_transcript_313_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,13987,14446,longer_from_REPLICATE1_transcript_39_support_5,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,14064,14446,longer_from_REPLICATE1_transcript_163_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,14108,14447,longer_from_REPLICATE2_transcript_72_support_3,60,+,exon,protein-coding,Chimpanzee 2
+RBMY1A1_ENSG00000234414.8,10,148,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,827,886,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_15_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,10,148,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_10_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,10,148,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_19_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,12,148,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_158_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,12,148,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_157_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,28,148,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14447,longer_from_REPLICATE1_transcript_82_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,36,148,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2009,2122,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2596,2700,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,5719,5897,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,7812,7965,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,9975,10090,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11045,11156,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11597,11708,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13174,13285,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,REPLICATE1_transcript_166_support_3REPLICATE2_transcript_218_support_7,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,47,148,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,12142,12253,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_200_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13194,13285,longer_from_REPLICATE2_transcript_0_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_0_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_0_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13400,13460,longer_from_REPLICATE2_transcript_235_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_235_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13870,14446,longer_from_REPLICATE1_transcript_193_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13902,14446,longer_from_REPLICATE2_transcript_188_support_10,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13920,14446,longer_from_REPLICATE2_transcript_146_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13955,14446,longer_from_REPLICATE1_transcript_21_support_6,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13974,14446,longer_from_REPLICATE2_transcript_86_support_4,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13980,14446,REPLICATE1_transcript_132_support_8REPLICATE2_transcript_147_support_4,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,13994,14446,longer_from_REPLICATE1_transcript_86_support_2,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,14048,14446,longer_from_REPLICATE1_transcript_121_support_8,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,14066,14446,longer_from_REPLICATE2_transcript_144_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,14066,14446,longer_from_REPLICATE2_transcript_142_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,14071,14446,longer_from_REPLICATE2_transcript_73_support_3,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,14094,14446,REPLICATE1_transcript_44_support_6REPLICATE2_transcript_256_support_5,60,+,exon,protein-coding,Bonobo
+RBMY1A1_ENSG00000234414.8,40,171,longer_from_REPLICATE2_transcript_5_support_6,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,11045,11156,longer_from_REPLICATE2_transcript_5_support_6,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_5_support_6,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14438,longer_from_REPLICATE2_transcript_5_support_6,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,10031,10090,longer_from_REPLICATE1_transcript_31_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_31_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14434,longer_from_REPLICATE1_transcript_31_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,10039,10090,longer_from_REPLICATE1_transcript_43_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_43_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14448,longer_from_REPLICATE1_transcript_43_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,11116,11156,longer_from_REPLICATE2_transcript_206_support_2,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_206_support_2,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_206_support_2,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_206_support_2,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_206_support_2,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,12200,12253,longer_from_REPLICATE2_transcript_254_support_7,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_254_support_7,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_254_support_7,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_254_support_7,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,12228,12253,longer_from_REPLICATE2_transcript_26_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_26_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_26_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_26_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13172,13285,longer_from_REPLICATE1_transcript_9_support_5,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_9_support_5,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14064,14446,longer_from_REPLICATE1_transcript_9_support_5,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13230,13285,longer_from_REPLICATE1_transcript_114_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_114_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_114_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13232,13285,REPLICATE1_transcript_66_support_3REPLICATE2_transcript_239_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13371,13460,REPLICATE1_transcript_66_support_3REPLICATE2_transcript_239_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14446,REPLICATE1_transcript_66_support_3REPLICATE2_transcript_239_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13380,13460,longer_from_REPLICATE1_transcript_2_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13871,14438,longer_from_REPLICATE1_transcript_2_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13690,14446,longer_from_REPLICATE1_transcript_76_support_5,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13690,14446,REPLICATE1_transcript_75_support_5REPLICATE2_transcript_61_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13791,14142,longer_from_REPLICATE1_transcript_3_support_3,60,-,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13791,14142,longer_from_REPLICATE2_transcript_2_support_3,60,-,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13791,14318,longer_from_REPLICATE2_transcript_16_support_4,60,-,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13791,14143,longer_from_REPLICATE2_transcript_6_support_7,60,-,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13791,14106,REPLICATE1_transcript_3_support_4REPLICATE2_transcript_19_support_6,60,-,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13791,14106,REPLICATE1_transcript_14_support_6REPLICATE2_transcript_17_support_3,60,-,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13870,14446,longer_from_REPLICATE2_transcript_270_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13870,14446,REPLICATE1_transcript_230_support_22REPLICATE2_transcript_242_support_28,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13870,14446,REPLICATE1_transcript_233_support_5REPLICATE2_transcript_56_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13873,14446,longer_from_REPLICATE2_transcript_8_support_4_1,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13881,14446,longer_from_REPLICATE1_transcript_116_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13912,14438,longer_from_REPLICATE2_transcript_44_support_3_1,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13912,14438,REPLICATE1_transcript_19_support_18REPLICATE2_transcript_43_support_10,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13912,14446,REPLICATE1_transcript_112_support_7REPLICATE2_transcript_340_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13944,14446,longer_from_REPLICATE2_transcript_223_support_5,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13947,14446,longer_from_REPLICATE1_transcript_219_support_5,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13947,14446,longer_from_REPLICATE2_transcript_234_support_9,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13997,14446,longer_from_REPLICATE1_transcript_96_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,13997,14441,longer_from_REPLICATE1_transcript_27_support_5,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14005,14446,longer_from_REPLICATE2_transcript_309_support_2,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14027,14448,longer_from_REPLICATE2_transcript_60_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14028,14446,longer_from_REPLICATE1_transcript_22_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14043,14446,longer_from_REPLICATE2_transcript_6_support_5,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14046,14446,longer_from_REPLICATE1_transcript_320_support_3,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14068,14446,longer_from_REPLICATE2_transcript_138_support_4,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14068,14446,longer_from_REPLICATE2_transcript_141_support_2,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14079,14446,longer_from_REPLICATE2_transcript_316_support_11,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14103,14446,REPLICATE1_transcript_386_support_129REPLICATE2_transcript_376_support_130,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,14112,14448,longer_from_REPLICATE1_transcript_24_support_8,60,+,exon,protein-coding,Gorilla
+RBMY1A1_ENSG00000234414.8,35,202,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,12686,12802,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE1_transcript_28_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,40,171,longer_from_REPLICATE2_transcript_17_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_17_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_17_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_17_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_17_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,14064,14442,longer_from_REPLICATE2_transcript_17_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,101,175,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13371,13472,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13871,14430,longer_from_REPLICATE2_transcript_9_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,7823,7965,longer_from_REPLICATE1_transcript_97_support_2,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE1_transcript_97_support_2,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE1_transcript_97_support_2,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13371,13472,longer_from_REPLICATE1_transcript_97_support_2,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13871,14430,longer_from_REPLICATE1_transcript_97_support_2,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_56_support_5,28,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13371,13472,longer_from_REPLICATE1_transcript_56_support_5,28,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13871,14430,longer_from_REPLICATE1_transcript_56_support_5,28,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE1_transcript_94_support_5,28,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13371,13472,longer_from_REPLICATE1_transcript_94_support_5,28,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13871,14430,longer_from_REPLICATE1_transcript_94_support_5,28,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13226,13285,longer_from_REPLICATE2_transcript_94_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13371,14446,longer_from_REPLICATE2_transcript_94_support_6,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13226,13285,REPLICATE1_transcript_158_support_11REPLICATE2_transcript_93_support_9,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13371,13460,REPLICATE1_transcript_158_support_11REPLICATE2_transcript_93_support_9,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13871,14446,REPLICATE1_transcript_158_support_11REPLICATE2_transcript_93_support_9,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13527,14430,longer_from_REPLICATE2_transcript_116_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13613,14446,longer_from_REPLICATE2_transcript_5_support_2,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13640,14442,longer_from_REPLICATE1_transcript_0_support_10,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13714,14430,longer_from_REPLICATE2_transcript_115_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13868,14430,longer_from_REPLICATE2_transcript_53_support_3,17,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13870,14176,longer_from_REPLICATE1_transcript_144_support_7,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13903,14442,REPLICATE1_transcript_25_support_35REPLICATE2_transcript_20_support_24,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13915,14446,longer_from_REPLICATE2_transcript_99_support_10,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13947,14448,longer_from_REPLICATE2_transcript_9_support_20,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,13989,14446,longer_from_REPLICATE1_transcript_4_support_8,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,14041,14448,REPLICATE1_transcript_22_support_10REPLICATE2_transcript_13_support_11,43,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,14099,14446,longer_from_REPLICATE2_transcript_32_support_3,60,+,exon,protein-coding,Bornean orangutan
+RBMY1A1_ENSG00000234414.8,101,175,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,2009,2122,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,2596,2700,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,5719,5897,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,7812,7965,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,9975,10090,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13371,13472,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13871,14430,longer_from_REPLICATE2_transcript_16_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,11597,11708,longer_from_REPLICATE2_transcript_27_support_4,29,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13371,13472,longer_from_REPLICATE2_transcript_27_support_4,29,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13871,14430,longer_from_REPLICATE2_transcript_27_support_4,29,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,12775,12802,longer_from_REPLICATE2_transcript_1_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13174,13285,longer_from_REPLICATE2_transcript_1_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13371,13460,longer_from_REPLICATE2_transcript_1_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13871,14446,longer_from_REPLICATE2_transcript_1_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13099,13285,longer_from_REPLICATE1_transcript_39_support_3,29,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13371,13472,longer_from_REPLICATE1_transcript_39_support_3,29,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13871,14430,longer_from_REPLICATE1_transcript_39_support_3,29,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13289,13472,longer_from_REPLICATE1_transcript_22_support_3_1,32,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13871,14430,longer_from_REPLICATE1_transcript_22_support_3_1,32,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13363,14299,longer_from_REPLICATE1_transcript_89_support_4,60,-,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13363,14246,longer_from_REPLICATE2_transcript_27_support_3,60,-,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13363,14125,longer_from_REPLICATE1_transcript_33_support_5,60,-,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13380,14448,longer_from_REPLICATE1_transcript_23_support_3,60,-,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13380,14448,longer_from_REPLICATE1_transcript_13_support_3_1,60,-,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13380,14315,longer_from_REPLICATE2_transcript_19_support_3,60,-,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13558,14446,longer_from_REPLICATE2_transcript_34_support_8,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13883,14446,longer_from_REPLICATE1_transcript_66_support_3,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13903,14442,longer_from_REPLICATE1_transcript_10_support_2_1,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13974,14446,REPLICATE1_transcript_5_support_3REPLICATE2_transcript_6_support_2,60,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,13980,14203,longer_from_REPLICATE2_transcript_7_support_43,2,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,14041,14446,longer_from_REPLICATE1_transcript_16_support_4,43,+,exon,protein-coding,Sumatran orangutan
+RBMY1A1_ENSG00000234414.8,14066,14446,longer_from_REPLICATE1_transcript_109_support_5,60,+,exon,protein-coding,Sumatran orangutan

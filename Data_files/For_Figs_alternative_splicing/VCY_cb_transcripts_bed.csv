@@ -1,0 +1,169 @@
+﻿chromosome,start,end,transcript_name,score,strand,type,transcript_biotype,species
+VCY_Ptr_ENSPTRG00000049568.1,0,102,VCY_Ptr_ENSPTRT00000055080,60,+,exon,protein-coding,Chimpanzee reference
+VCY_Ptr_ENSPTRG00000049568.1,293,548,VCY_Ptr_ENSPTRT00000055080,60,+,exon,protein-coding,Chimpanzee reference
+VCY_Ptr_ENSPTRG00000049568.1,792,812,VCY_Ptr_ENSPTRT00000055080,60,+,exon,protein-coding,Chimpanzee reference
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_158_support_4,58,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE2_transcript_158_support_4,58,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_470_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE1_transcript_470_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_296_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE1_transcript_296_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_137_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE1_transcript_137_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_105_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE1_transcript_105_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_140_support_7,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE2_transcript_140_support_7,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_146_support_37,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE2_transcript_146_support_37,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,291,812,longer_from_REPLICATE2_transcript_468_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,349,812,longer_from_REPLICATE2_transcript_390_support_3,60,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,563,812,longer_from_REPLICATE2_transcript_15_support_5,50,+,exon,protein-coding,Human 1
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_579_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_579_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,691,812,longer_from_REPLICATE2_transcript_579_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_287_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_287_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,691,812,longer_from_REPLICATE1_transcript_287_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_378_support_5,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,670,longer_from_REPLICATE1_transcript_378_support_5,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,730,812,longer_from_REPLICATE1_transcript_378_support_5,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_261_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,670,longer_from_REPLICATE1_transcript_261_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,730,812,longer_from_REPLICATE1_transcript_261_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_334_support_11REPLICATE2_transcript_353_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_334_support_11REPLICATE2_transcript_353_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,691,812,REPLICATE1_transcript_334_support_11REPLICATE2_transcript_353_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_265_support_7,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,670,longer_from_REPLICATE1_transcript_265_support_7,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,730,812,longer_from_REPLICATE1_transcript_265_support_7,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_322_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_322_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,691,812,longer_from_REPLICATE1_transcript_322_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_585_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_585_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_585_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_140_support_10,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_140_support_10,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,691,812,longer_from_REPLICATE2_transcript_140_support_10,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_46_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_46_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,691,812,longer_from_REPLICATE1_transcript_46_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_408_support_7,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_408_support_7,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_408_support_7,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_111_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_111_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_111_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_103_support_11,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_103_support_11,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_103_support_11,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_104_support_15,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_104_support_15,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_104_support_15,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_257_support_4,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_257_support_4,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_257_support_4,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_217_support_5REPLICATE2_transcript_250_support_5,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_217_support_5REPLICATE2_transcript_250_support_5,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_217_support_5REPLICATE2_transcript_250_support_5,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_256_support_10REPLICATE2_transcript_276_support_13,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_256_support_10REPLICATE2_transcript_276_support_13,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_256_support_10REPLICATE2_transcript_276_support_13,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_211_support_33REPLICATE2_transcript_244_support_22,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_211_support_33REPLICATE2_transcript_244_support_22,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_211_support_33REPLICATE2_transcript_244_support_22,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_227_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_227_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_227_support_2,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_224_support_8,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_224_support_8,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_224_support_8,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_218_support_8REPLICATE2_transcript_251_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_218_support_8REPLICATE2_transcript_251_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_218_support_8REPLICATE2_transcript_251_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,364,622,longer_from_REPLICATE2_transcript_554_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,743,812,longer_from_REPLICATE2_transcript_554_support_3,60,+,exon,protein-coding,Chimpanzee 2
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_241_support_11,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE1_transcript_241_support_11,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_107_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,812,longer_from_REPLICATE2_transcript_107_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_222_support_6REPLICATE2_transcript_301_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_222_support_6REPLICATE2_transcript_301_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,661,812,REPLICATE1_transcript_222_support_6REPLICATE2_transcript_301_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_245_support_9,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_245_support_9,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_245_support_9,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_91_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_91_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,661,812,longer_from_REPLICATE1_transcript_91_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_7_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,700,longer_from_REPLICATE1_transcript_7_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,760,812,longer_from_REPLICATE1_transcript_7_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_59_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,700,longer_from_REPLICATE1_transcript_59_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,760,812,longer_from_REPLICATE1_transcript_59_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_169_support_15,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,700,longer_from_REPLICATE1_transcript_169_support_15,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,760,812,longer_from_REPLICATE1_transcript_169_support_15,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_215_support_6,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_215_support_6,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_215_support_6,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_209_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_209_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_209_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_254_support_4,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_254_support_4,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_254_support_4,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_129_support_12REPLICATE2_transcript_168_support_15,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_129_support_12REPLICATE2_transcript_168_support_15,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_129_support_12REPLICATE2_transcript_168_support_15,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_161_support_7,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_161_support_7,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_161_support_7,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_170_support_5,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_170_support_5,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_170_support_5,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_158_support_38REPLICATE2_transcript_212_support_41,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_158_support_38REPLICATE2_transcript_212_support_41,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_158_support_38REPLICATE2_transcript_212_support_41,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_147_support_9REPLICATE2_transcript_198_support_28,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_147_support_9REPLICATE2_transcript_198_support_28,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_147_support_9REPLICATE2_transcript_198_support_28,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_139_support_3REPLICATE2_transcript_182_support_6,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_139_support_3REPLICATE2_transcript_182_support_6,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_139_support_3REPLICATE2_transcript_182_support_6,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_180_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_180_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_180_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_137_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_137_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_137_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_164_support_19REPLICATE2_transcript_217_support_24,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,REPLICATE1_transcript_164_support_19REPLICATE2_transcript_217_support_24,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,REPLICATE1_transcript_164_support_19REPLICATE2_transcript_217_support_24,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_148_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE1_transcript_148_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE1_transcript_148_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE2_transcript_206_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,293,601,longer_from_REPLICATE2_transcript_206_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,721,812,longer_from_REPLICATE2_transcript_206_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,351,622,longer_from_REPLICATE2_transcript_110_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,743,812,longer_from_REPLICATE2_transcript_110_support_2,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,365,622,longer_from_REPLICATE2_transcript_22_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,743,812,longer_from_REPLICATE2_transcript_22_support_3,60,+,exon,protein-coding,Bonobo
+VCY_Ptr_ENSPTRG00000049568.1,0,102,REPLICATE1_transcript_173_support_7REPLICATE2_transcript_9_support_10,51,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,293,778,REPLICATE1_transcript_173_support_7REPLICATE2_transcript_9_support_10,51,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,0,102,longer_from_REPLICATE1_transcript_263_support_2,43,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,293,518,longer_from_REPLICATE1_transcript_263_support_2,43,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,670,748,longer_from_REPLICATE1_transcript_263_support_2,43,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,1,102,longer_from_REPLICATE2_transcript_78_support_3,33,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,293,518,longer_from_REPLICATE2_transcript_78_support_3,33,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,670,812,longer_from_REPLICATE2_transcript_78_support_3,33,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,291,778,longer_from_REPLICATE2_transcript_2_support_2,60,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,291,500,REPLICATE1_transcript_52_support_6REPLICATE2_transcript_88_support_16,60,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,653,812,REPLICATE1_transcript_52_support_6REPLICATE2_transcript_88_support_16,60,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,311,500,longer_from_REPLICATE1_transcript_268_support_3,60,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,653,748,longer_from_REPLICATE1_transcript_268_support_3,60,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,352,500,longer_from_REPLICATE1_transcript_8_support_5,50,+,exon,protein-coding,Gorilla
+VCY_Ptr_ENSPTRG00000049568.1,683,812,longer_from_REPLICATE1_transcript_8_support_5,50,+,exon,protein-coding,Gorilla
