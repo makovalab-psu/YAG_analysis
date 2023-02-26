@@ -1,0 +1,1 @@
+longer_from_REPLICATE1_transcript_13_support_3_4	VCY1B|ENST00000250823	87.302	63	8	0	1	63	55	117	9.06e-34	106

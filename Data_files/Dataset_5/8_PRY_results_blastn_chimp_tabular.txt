@@ -1,0 +1,2 @@
+longer_from_REPLICATE2_transcript_37_support_5	novel_gene|ENSPTRT00000102295	97.297	74	2	0	1	74	504	577	5.71e-31	126
+longer_from_REPLICATE2_transcript_1_support_9	5_8S_rRNA|ENSPTRT00000101454	93.919	148	8	1	1	148	2	148	2.73e-60	222

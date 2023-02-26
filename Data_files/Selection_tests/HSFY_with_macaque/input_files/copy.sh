@@ -1,0 +1,5 @@
+for model in alt_model_1 alt_model_2 alt_model_3 alt_model_4 alt_model_5 alt_model_6 alt_model_7 alt_model_8 alt_model_9 alt_model_10 alt_model_11 alt_model_12 alt_model_13 alt_model_14 alt_model_15 alt_model_16 alt_model_17 alt_model_18 alt_model_19 alt_model_20 alt_model_21 alt_model_22 alt_model_23 alt_model_24 alt_model_25 alt_model_26 alt_model_27 alt_model_28 alt_model_29 alt_model_30 alt_model_31 alt_model_32 alt_model_33 alt_model_34 alt_model_35 alt_model_36 alt_model_37 alt_model_38 alt_model_39 alt_model_40 alt_model_41 alt_model_42 alt_model_43 alt_model_44 alt_model_45 alt_model_46 alt_model_47
+do 
+	cd /Users/mat19/Documents/Capture_probe/Collaboration_with_Kristoffer/Selection_tests/WITH_MACAQUE/HSFY_with_macaque/input_files/$model/
+	cp /Users/mat19/Documents/Capture_probe/Collaboration_with_Kristoffer/Selection_tests/WITH_MACAQUE/HSFY_with_macaque/input_files/null_model/HSFY.phy .
+done

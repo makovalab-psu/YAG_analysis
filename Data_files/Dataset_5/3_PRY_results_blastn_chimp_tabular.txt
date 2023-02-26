@@ -1,0 +1,1 @@
+longer_from_REPLICATE1_transcript_13_support_3	novel_gene|ENSPTRT00000055080	95.855	193	8	0	1	193	161	353	3.67e-87	313

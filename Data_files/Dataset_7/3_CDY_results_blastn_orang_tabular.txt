@@ -1,0 +1,13 @@
+longer_from_REPLICATE2_transcript_80_support_3	Y_transcript_CDY2A	95.405	1915	88	0	2	1916	7	1921	0.0	3055
+longer_from_REPLICATE2_transcript_249_support_4	Y_transcript_CDY2A	95.416	1898	87	0	1	1898	24	1921	0.0	3029
+longer_from_REPLICATE2_transcript_23_support_2	Y_transcript_CDY2A	95.367	1921	89	0	15	1935	1	1921	0.0	3061
+REPLICATE1_transcript_13_support_9REPLICATE2_transcript_19_support_3	Y_transcript_CDY2A	95.367	1921	89	0	15	1935	1	1921	0.0	3061
+REPLICATE1_transcript_12_support_3REPLICATE2_transcript_18_support_3	Y_transcript_CDY2A	95.419	1921	88	0	15	1935	1	1921	0.0	3066
+longer_from_REPLICATE2_transcript_283_support_3	Y_transcript_CDY2A	95.364	1898	88	0	1	1898	24	1921	0.0	3024
+REPLICATE1_transcript_184_support_18REPLICATE2_transcript_263_support_13	Y_transcript_CDY2A	95.311	1898	89	0	1	1898	24	1921	0.0	3018
+longer_from_REPLICATE1_transcript_196_support_3	Y_transcript_CDY2A	95.416	1898	87	0	1	1898	24	1921	0.0	3029
+REPLICATE1_transcript_191_support_8REPLICATE2_transcript_271_support_11	Y_transcript_CDY2A	95.416	1898	87	0	1	1898	24	1921	0.0	3029
+longer_from_REPLICATE1_transcript_164_support_4	Y_transcript_CDY1	95.522	1876	81	1	5	1880	1	1873	0.0	3000
+longer_from_REPLICATE1_transcript_205_support_4	Y_transcript_CDY1	95.529	1700	73	1	1	1700	177	1873	0.0	2719
+REPLICATE1_transcript_202_support_5REPLICATE2_transcript_288_support_5	Y_transcript_CDY1	95.858	1545	61	1	1	1545	332	1873	0.0	2499
+REPLICATE1_transcript_124_support_10REPLICATE2_transcript_170_support_6	Y_transcript_CDY1	96.036	1438	54	1	1	1438	439	1873	0.0	2340

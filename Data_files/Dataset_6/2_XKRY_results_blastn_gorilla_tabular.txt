@@ -1,0 +1,14 @@
+REPLICATE1_transcript_83_support_5REPLICATE2_transcript_64_support_2	Y_transcript_pseudogene_KRYP6	83.375	794	103	17	666	1451	325	1097	0.0	708
+longer_from_REPLICATE1_transcript_75_support_23	Y_transcript_pseudogene_KRYP6	83.375	794	103	17	663	1448	325	1097	0.0	708
+longer_from_REPLICATE1_transcript_18_support_5	Y_transcript_pseudogene_KRYP6	83.375	794	103	17	635	1420	325	1097	0.0	708
+REPLICATE1_transcript_27_support_8REPLICATE2_transcript_19_support_8	Y_transcript_pseudogene_AC024183_3	83.794	543	71	12	815	1356	793	1319	1.11e-142	499
+longer_from_REPLICATE1_transcript_15_support_2	Y_transcript_pseudogene_AC024183_3	82.059	641	81	13	414	1037	697	74	1.10e-147	516
+longer_from_REPLICATE1_transcript_15_support_2	Y_transcript_pseudogene_AC024183_3	86.154	260	31	5	40	298	1048	793	2.03e-75	276
+longer_from_REPLICATE1_transcript_28_support_3	Y_transcript_pseudogene_AC024183_3	81.903	641	82	13	339	962	697	74	4.82e-146	510
+longer_from_REPLICATE1_transcript_22_support_20	Y_transcript_pseudogene_KRYP6	83.375	794	103	17	290	1075	325	1097	0.0	708
+longer_from_REPLICATE2_transcript_76_support_3	Y_transcript_pseudogene_KRYP6	83.375	794	103	17	91	876	325	1097	0.0	708
+longer_from_REPLICATE1_transcript_17_support_4	Y_transcript_pseudogene_KRYP6	85.849	636	80	7	1	630	466	1097	0.0	667
+longer_from_REPLICATE2_transcript_44_support_41	Y_transcript_pseudogene_KRYP6	85.277	523	67	7	1	517	579	1097	1.90e-152	531
+longer_from_REPLICATE2_transcript_8_support_4	Y_transcript_pseudogene_AC024183_3	87.947	531	38	17	1	528	1046	539	3.14e-174	603
+longer_from_REPLICATE2_transcript_13_support_3	Y_transcript_pseudogene_AC024183_3	83.824	476	58	14	1	473	869	1328	1.09e-123	435
+longer_from_REPLICATE2_transcript_35_support_12	Y_transcript_pseudogene_KRYP4	89.256	121	13	0	1	121	198	318	2.82e-39	152

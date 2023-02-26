@@ -1,0 +1,4 @@
+REPLICATE1_transcript_71_support_83REPLICATE2_transcript_92_support_97	novel_gene|ENSPTRT00000055080	95.187	374	18	0	64	437	1	374	6.66e-171	592
+longer_from_REPLICATE1_transcript_64_support_5	novel_gene|ENSPTRT00000055080	94.920	374	19	0	64	437	1	374	3.10e-169	586
+longer_from_REPLICATE2_transcript_79_support_3	novel_gene|ENSPTRT00000055080	95.187	374	18	0	64	437	1	374	6.66e-171	592
+longer_from_REPLICATE1_transcript_86_support_7	novel_gene|ENSPTRT00000055080	95.467	375	16	1	62	436	1	374	1.43e-172	597

@@ -1,0 +1,2 @@
+/var/lib/slurm-llnl/slurmd/slurmd.spool/job1399129/slurm_script: line 16: syntax error near unexpected token `done'
+/var/lib/slurm-llnl/slurmd/slurmd.spool/job1399129/slurm_script: line 16: `done'

@@ -1,0 +1,6 @@
+longer_from_REPLICATE2_transcript_8_support_3	Y_transcript_CDY1	96.043	1769	67	1	119	1887	108	1873	0.0	2880
+longer_from_REPLICATE2_transcript_91_support_4	Y_transcript_CDY1	96.947	1769	51	1	75	1843	108	1873	0.0	2968
+longer_from_REPLICATE2_transcript_81_support_3	Y_transcript_CDY1	96.778	1769	54	1	61	1829	108	1873	0.0	2952
+longer_from_REPLICATE1_transcript_98_support_3	Y_transcript_CDY1	95.989	1770	67	2	90	1859	108	1873	0.0	2876
+longer_from_REPLICATE2_transcript_35_support_2	Y_transcript_CDY1	95.876	1770	69	2	69	1838	108	1873	0.0	2865
+longer_from_REPLICATE1_transcript_7_support_9	Y_transcript_CDY2A	97.423	194	5	0	1	194	478	671	1.54e-93	331

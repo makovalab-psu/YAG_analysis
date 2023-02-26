@@ -1,0 +1,17 @@
+longer_from_REPLICATE2_transcript_83_support_5	Y_transcript_pseudogene_KRYP6	84.791	789	96	12	666	1450	329	1097	0.0	771
+REPLICATE1_transcript_81_support_3REPLICATE2_transcript_109_support_2	Y_transcript_pseudogene_AC024183_3	91.711	760	46	10	550	1307	1536	792	0.0	1038
+REPLICATE1_transcript_81_support_3REPLICATE2_transcript_109_support_2	Y_transcript_pseudogene_AC024183_3	91.954	174	4	1	1416	1589	702	539	4.05e-63	235
+longer_from_REPLICATE1_transcript_9_support_3	Y_transcript_pseudogene_KRYP6	84.791	789	96	12	657	1441	329	1097	0.0	771
+longer_from_REPLICATE2_transcript_20_support_3	Y_transcript_pseudogene_KRYP6	84.791	789	96	12	664	1448	329	1097	0.0	771
+longer_from_REPLICATE1_transcript_98_support_2	Y_transcript_pseudogene_KRYP6	84.860	786	95	12	85	866	332	1097	0.0	771
+longer_from_REPLICATE1_transcript_84_support_3	Y_transcript_pseudogene_KRYP6	84.791	789	96	12	23	807	329	1097	0.0	771
+longer_from_REPLICATE1_transcript_14_support_3	Y_transcript_pseudogene_KRYP6	84.791	789	96	12	38	822	329	1097	0.0	771
+longer_from_REPLICATE2_transcript_65_support_5	Y_transcript_pseudogene_KRYP6	86.446	664	82	5	7	666	438	1097	0.0	721
+longer_from_REPLICATE2_transcript_33_support_4	Y_transcript_pseudogene_KRYP6	85.799	676	74	11	1	672	991	334	0.0	697
+longer_from_REPLICATE2_transcript_56_support_3	Y_transcript_pseudogene_AC024183_3	86.700	812	63	32	1	803	1314	539	0.0	859
+longer_from_REPLICATE2_transcript_9_support_5	Y_transcript_pseudogene_KRYP6	86.350	674	82	6	1	670	430	1097	0.0	726
+longer_from_REPLICATE2_transcript_121_support_4	Y_transcript_pseudogene_KRYP6	86.833	562	66	5	3	560	540	1097	1.06e-179	621
+longer_from_REPLICATE2_transcript_60_support_5	Y_transcript_pseudogene_KRYP1	87.298	433	50	5	1	430	455	25	2.75e-140	490
+longer_from_REPLICATE1_transcript_90_support_3	Y_transcript_pseudogene_AC024183_3	85.540	574	41	30	1	565	1079	539	5.71e-162	562
+longer_from_REPLICATE2_transcript_72_support_3	Y_transcript_pseudogene_AC024183_3	84.489	548	68	12	1	547	797	1328	7.29e-151	525
+longer_from_REPLICATE2_transcript_108_support_4	Y_transcript_pseudogene_KRYP6	87.156	545	64	3	1	541	539	1081	1.50e-177	614

@@ -1,0 +1,14 @@
+REPLICATE1_transcript_11_support_3REPLICATE2_transcript_10_support_2	Y_transcript_HSFY1	86.606	993	120	8	4	984	40	1031	0.0	1085
+longer_from_REPLICATE1_transcript_8_support_8	Y_transcript_HSFY1	88.663	591	64	2	16	603	40	630	0.0	717
+longer_from_REPLICATE2_transcript_12_support_3	Y_transcript_HSFY1	90.127	314	31	0	1	314	321	8	8.45e-116	409
+longer_from_REPLICATE1_transcript_4_support_3	Y_transcript_pseudogene_HSFY4P	96.512	172	5	1	1	171	172	1	5.23e-78	283
+REPLICATE1_transcript_30_support_4REPLICATE2_transcript_51_support_3	Y_transcript_HSFY1	92.268	194	15	0	21	214	4	197	7.94e-76	276
+longer_from_REPLICATE1_transcript_51_support_12	Y_transcript_HSFY1	91.753	194	16	0	21	214	4	197	3.69e-74	270
+longer_from_REPLICATE2_transcript_27_support_2	Y_transcript_pseudogene_HSFY6P	97.794	136	2	1	90	225	110	244	4.21e-63	233
+longer_from_REPLICATE2_transcript_56_support_3	Y_transcript_HSFY1	91.753	194	16	0	21	214	4	197	2.88e-74	270
+REPLICATE1_transcript_37_support_22REPLICATE2_transcript_52_support_10	Y_transcript_HSFY1	91.795	195	15	1	21	215	4	197	2.55e-74	270
+REPLICATE1_transcript_42_support_63REPLICATE2_transcript_53_support_56	Y_transcript_HSFY1	91.753	194	16	0	21	214	4	197	2.54e-74	270
+REPLICATE1_transcript_28_support_31REPLICATE2_transcript_50_support_25	Y_transcript_HSFY1	92.268	194	15	0	21	214	4	197	5.47e-76	276
+REPLICATE1_transcript_1_support_5REPLICATE2_transcript_6_support_8	Y_transcript_HSFY1	85.294	204	29	1	1	203	204	1	4.98e-56	209
+longer_from_REPLICATE2_transcript_10_support_2	Y_transcript_HSFY1	85.326	184	26	1	1	183	184	1	6.25e-50	189
+REPLICATE1_transcript_173_support_30REPLICATE2_transcript_130_support_23	Y_transcript_pseudogene_HSFY6P	97.794	136	2	1	14	149	110	244	2.01e-63	233

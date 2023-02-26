@@ -1,0 +1,14 @@
+longer_from_REPLICATE1_transcript_27_support_2	Y_transcript_pseudogene_AC024183_3	81.572	776	89	29	835	1592	793	1532	2.11e-170	592
+longer_from_REPLICATE1_transcript_37_support_5	Y_transcript_pseudogene_AC024183_3	81.572	776	89	29	817	1574	793	1532	2.08e-170	592
+longer_from_REPLICATE2_transcript_11_support_3	Y_transcript_pseudogene_AC024183_3	83.939	523	67	13	817	1338	793	1299	3.09e-138	484
+longer_from_REPLICATE2_transcript_5_support_5	Y_transcript_pseudogene_AC024183_3	83.939	523	67	13	815	1336	793	1299	3.09e-138	484
+longer_from_REPLICATE2_transcript_68_support_3	Y_transcript_pseudogene_AC024183_3	81.572	776	89	29	544	1301	793	1532	1.72e-170	592
+longer_from_REPLICATE1_transcript_53_support_5	Y_transcript_pseudogene_AC024183_3	81.572	776	89	29	418	1175	793	1532	1.55e-170	592
+longer_from_REPLICATE1_transcript_76_support_2	Y_transcript_pseudogene_AC024183_3	81.572	776	89	29	302	1059	793	1532	1.40e-170	592
+longer_from_REPLICATE2_transcript_4_support_6	Y_transcript_pseudogene_AC024183_3	81.572	776	89	29	288	1045	793	1532	1.38e-170	592
+longer_from_REPLICATE1_transcript_45_support_3	Y_transcript_pseudogene_AC024183_3	81.572	776	89	29	233	990	793	1532	1.31e-170	592
+longer_from_REPLICATE2_transcript_52_support_4	Y_transcript_pseudogene_AC024183_3	83.939	523	67	13	153	674	793	1299	1.57e-138	484
+longer_from_REPLICATE1_transcript_21_support_2	Y_transcript_pseudogene_KRYP4	93.766	385	21	2	1	385	382	1	6.36e-166	575
+longer_from_REPLICATE1_transcript_146_support_7	Y_transcript_pseudogene_AC024183_3	83.857	446	55	13	1	445	870	1299	6.44e-116	409
+longer_from_REPLICATE2_transcript_59_support_6	Y_transcript_pseudogene_AC024183_3	83.929	448	55	13	1	447	868	1299	4.92e-117	412
+longer_from_REPLICATE1_transcript_56_support_8	Y_transcript_pseudogene_KRYP4	82.468	308	50	3	4	310	14	318	2.68e-73	267

@@ -1,0 +1,1 @@
+longer_from_REPLICATE1_transcript_11_support_4	novel_gene|ENSPTRT00000055865	96.591	264	6	1	178	441	444	184	1.78e-123	435

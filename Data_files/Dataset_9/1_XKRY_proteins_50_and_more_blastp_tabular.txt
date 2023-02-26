@@ -1,0 +1,1 @@
+longer_from_REPLICATE2_transcript_227_support_4_26	XKRY|AF000997.1	48.052	154	71	4	6	156	12	159	4.07e-31	107

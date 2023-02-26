@@ -1,0 +1,5 @@
+longer_from_REPLICATE1_transcript_30_support_3	Y_transcript_PRY	87.089	790	69	19	1	786	465	1225	0.0	863
+longer_from_REPLICATE2_transcript_48_support_3	Y_transcript_PRY	88.515	653	67	6	103	752	578	1225	0.0	784
+longer_from_REPLICATE2_transcript_17_support_19	Y_transcript_PRY	85.522	297	37	5	118	410	578	872	1.90e-84	305
+longer_from_REPLICATE2_transcript_7_support_3	Y_transcript_TSPY	88.327	257	25	5	44	299	901	1153	1.98e-84	303
+longer_from_REPLICATE2_transcript_11_support_5	Y_transcript_TSPY	91.418	268	19	4	1	267	892	1156	7.91e-103	364

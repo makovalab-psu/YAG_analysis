@@ -1,0 +1,8 @@
+longer_from_REPLICATE2_transcript_19_support_3	Y_transcript_TSPY1	89.862	217	16	2	242	457	920	1131	1.41e-77	279
+longer_from_REPLICATE2_transcript_7_support_2	Y_transcript_TSPY1	89.862	217	16	2	164	379	920	1131	1.18e-77	279
+longer_from_REPLICATE2_transcript_37_support_5	Y_transcript_TSPY1	89.908	218	16	2	162	378	919	1131	3.26e-78	281
+longer_from_REPLICATE2_transcript_37_support_5	Y_transcript_TSPY1	100.000	68	0	0	1	68	852	919	1.62e-31	126
+longer_from_REPLICATE1_transcript_33_support_4	Y_transcript_TSPY1	89.401	217	17	2	154	369	920	1131	5.32e-76	274
+longer_from_REPLICATE1_transcript_25_support_4	Y_transcript_TSPY1	89.908	218	16	2	134	350	919	1131	3.01e-78	281
+longer_from_REPLICATE2_transcript_29_support_7	Y_transcript_TSPY1	89.862	217	16	2	40	255	920	1131	7.81e-78	279
+longer_from_REPLICATE2_transcript_22_support_3	Y_transcript_TSPY1	88.268	179	16	1	1	179	958	1131	1.53e-58	215

@@ -1,0 +1,5 @@
+longer_from_REPLICATE2_transcript_53_support_3	Y_transcript_CDY2A	95.467	1897	79	3	1	1890	25	1921	0.0	3025
+longer_from_REPLICATE2_transcript_7_support_2	Y_transcript_CDY2A	95.575	1921	78	3	29	1942	1	1921	0.0	3075
+longer_from_REPLICATE2_transcript_24_support_5	Y_transcript_CDY2A	95.464	1918	80	3	1	1911	4	1921	0.0	3059
+longer_from_REPLICATE2_transcript_21_support_7	Y_transcript_CDY2A	95.559	1914	78	3	1	1907	8	1921	0.0	3062
+longer_from_REPLICATE2_transcript_22_support_5	Y_transcript_CDY2A	95.298	1914	83	3	1	1907	8	1921	0.0	3035

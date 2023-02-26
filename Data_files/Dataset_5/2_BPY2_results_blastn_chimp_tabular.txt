@@ -1,0 +1,7 @@
+longer_from_REPLICATE2_transcript_136_support_3	novel_gene|ENSPTRT00000055823	99.065	321	3	0	374	694	1	321	4.80e-166	577
+longer_from_REPLICATE2_transcript_48_support_3	novel_gene|ENSPTRT00000055823	99.065	321	3	0	381	701	1	321	4.42e-166	577
+longer_from_REPLICATE1_transcript_32_support_4	novel_gene|ENSPTRT00000055823	98.776	245	3	0	219	463	77	321	6.32e-124	436
+longer_from_REPLICATE1_transcript_32_support_4	novel_gene|ENSPTRT00000055823	100.000	79	0	0	20	98	1	79	1.19e-36	147
+longer_from_REPLICATE1_transcript_63_support_2	novel_gene|ENSPTRT00000055823	98.776	245	3	0	108	352	77	321	5.67e-124	436
+longer_from_REPLICATE1_transcript_25_support_4	novel_gene|ENSPTRT00000055823	99.087	219	2	0	1	219	103	321	2.92e-111	394
+longer_from_REPLICATE2_transcript_52_support_5	novel_gene|ENSPTRT00000055823	99.432	176	1	0	1	176	146	321	4.70e-89	320

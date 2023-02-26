@@ -1,0 +1,17 @@
+longer_from_REPLICATE1_transcript_173_support_3	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	668	1137	22	490	8.04e-120	424
+longer_from_REPLICATE1_transcript_349_support_11	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	668	1137	22	490	8.04e-120	424
+longer_from_REPLICATE2_transcript_190_support_57	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	664	1133	22	490	8.02e-120	424
+REPLICATE1_transcript_96_support_11REPLICATE2_transcript_73_support_7	Y_transcript_pseudogene_KRYP1	82.947	475	71	9	637	1107	22	490	1.02e-118	420
+longer_from_REPLICATE1_transcript_178_support_6	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	667	1136	22	490	7.59e-120	424
+longer_from_REPLICATE2_transcript_56_support_8	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	637	1106	22	490	7.43e-120	424
+REPLICATE1_transcript_388_support_4REPLICATE2_transcript_320_support_4	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	497	966	22	490	7.16e-120	424
+longer_from_REPLICATE1_transcript_324_support_9	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	665	1134	22	490	6.83e-120	424
+longer_from_REPLICATE1_transcript_71_support_8	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	637	1106	22	490	6.72e-120	424
+longer_from_REPLICATE2_transcript_27_support_5	Y_transcript_pseudogene_KRYP1	82.857	315	54	0	667	981	22	336	1.16e-77	283
+longer_from_REPLICATE1_transcript_218_support_3	Y_transcript_pseudogene_KRYP1	82.857	315	54	0	638	952	22	336	1.14e-77	283
+longer_from_REPLICATE2_transcript_15_support_8	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	319	788	22	490	6.26e-120	424
+longer_from_REPLICATE1_transcript_141_support_5	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	200	669	22	490	5.65e-120	424
+longer_from_REPLICATE2_transcript_260_support_4	Y_transcript_pseudogene_KRYP1	83.005	406	62	6	665	1067	22	423	4.31e-101	361
+longer_from_REPLICATE2_transcript_234_support_5	Y_transcript_pseudogene_KRYP1	83.122	474	71	8	147	616	22	490	5.38e-120	424
+longer_from_REPLICATE1_transcript_391_support_5	Y_transcript_pseudogene_KRYP1	85.205	365	45	8	9	369	131	490	7.02e-103	366
+longer_from_REPLICATE1_transcript_264_support_7	Y_transcript_pseudogene_KRYP4	86.290	248	28	6	4	250	238	480	2.23e-72	265

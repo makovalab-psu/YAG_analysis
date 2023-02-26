@@ -1,0 +1,5 @@
+longer_from_REPLICATE2_transcript_53_support_3	Y_transcript_CDY	99.646	1977	5	2	1	1976	57	2032	0.0	3611
+longer_from_REPLICATE2_transcript_7_support_2	Y_transcript_CDY	99.848	1979	1	2	1	1978	5	1982	0.0	3637
+longer_from_REPLICATE2_transcript_24_support_5	Y_transcript_CDY	99.846	1948	1	2	1	1947	36	1982	0.0	3579
+longer_from_REPLICATE2_transcript_21_support_7	Y_transcript_CDY	99.846	1942	1	2	1	1941	40	1980	0.0	3568
+longer_from_REPLICATE2_transcript_22_support_5	Y_transcript_CDY	99.537	1944	7	2	1	1943	40	1982	0.0	3539

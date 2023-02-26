@@ -1,0 +1,5 @@
+longer_from_REPLICATE1_transcript_36_support_4	Y_transcript_BPY2	93.333	120	8	0	288	407	379	498	2.42e-46	178
+longer_from_REPLICATE1_transcript_36_support_4	Y_transcript_BPY2	86.885	122	7	3	55	167	260	381	2.47e-31	128
+REPLICATE1_transcript_33_support_7REPLICATE2_transcript_58_support_5	Y_transcript_BPY2	93.333	120	8	0	134	253	379	498	1.74e-46	178
+REPLICATE1_transcript_42_support_6REPLICATE2_transcript_71_support_4	Y_transcript_BPY2	95.000	120	6	0	115	234	379	498	7.66e-50	189
+longer_from_REPLICATE2_transcript_87_support_3	Y_transcript_BPY2	93.333	120	8	0	64	183	379	498	1.42e-46	178

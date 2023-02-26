@@ -1,0 +1,8 @@
+longer_from_REPLICATE2_transcript_8_support_3	Y_transcript_CDY	93.347	1999	129	4	111	2107	171	2167	0.0	2952
+longer_from_REPLICATE2_transcript_8_support_3	Y_transcript_CDY	93.277	119	8	0	1	119	11	129	3.35e-45	176
+longer_from_REPLICATE2_transcript_91_support_4	Y_transcript_CDY	94.124	1991	115	2	75	2064	178	2167	0.0	3027
+longer_from_REPLICATE2_transcript_81_support_3	Y_transcript_CDY	93.973	1991	118	2	61	2050	178	2167	0.0	3011
+longer_from_REPLICATE1_transcript_98_support_3	Y_transcript_CDY	93.861	1808	107	4	82	1888	171	1975	0.0	2721
+longer_from_REPLICATE1_transcript_98_support_3	Y_transcript_CDY	94.444	90	5	0	1	90	40	129	3.89e-34	139
+longer_from_REPLICATE2_transcript_35_support_2	Y_transcript_CDY	93.750	1808	109	4	61	1867	171	1975	0.0	2710
+longer_from_REPLICATE1_transcript_7_support_9	Y_transcript_CDY	95.361	194	9	0	1	194	503	696	2.66e-86	309

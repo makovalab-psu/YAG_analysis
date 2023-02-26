@@ -1,0 +1,1 @@
+longer_from_REPLICATE1_transcript_30_support_6	Y_transcript_PRY	90.501	758	51	14	2	755	323	1063	0.0	983

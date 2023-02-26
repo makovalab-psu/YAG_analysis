@@ -1,0 +1,8 @@
+REPLICATE1_transcript_130_support_5REPLICATE2_transcript_117_support_6	Y_transcript_BPY2	98.606	861	12	0	72	932	1	861	0.0	1524
+REPLICATE1_transcript_130_support_5REPLICATE2_transcript_117_support_6	Y_transcript_BPY2	97.152	316	9	0	931	1246	949	1264	2.79e-153	534
+REPLICATE1_transcript_127_support_9REPLICATE2_transcript_115_support_6	Y_transcript_BPY2	98.598	856	12	0	72	927	1	856	0.0	1515
+REPLICATE1_transcript_127_support_9REPLICATE2_transcript_115_support_6	Y_transcript_BPY2	97.179	319	9	0	923	1241	946	1264	5.98e-155	540
+longer_from_REPLICATE1_transcript_12_support_3	Y_transcript_BPY2	98.551	483	7	0	150	632	379	861	0.0	854
+longer_from_REPLICATE1_transcript_12_support_3	Y_transcript_BPY2	97.152	316	9	0	631	946	949	1264	2.11e-153	534
+longer_from_REPLICATE1_transcript_15_support_6	Y_transcript_BPY2	98.536	478	7	0	112	589	379	856	0.0	845
+longer_from_REPLICATE1_transcript_15_support_6	Y_transcript_BPY2	97.179	319	9	0	585	903	946	1264	4.39e-155	540
