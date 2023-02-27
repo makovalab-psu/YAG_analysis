@@ -7,6 +7,8 @@
 #SBATCH --ntasks=64
 #SBATCH --mem=500G
 
+#combine predicted ORFs (in nucleotides) from all samples per gene family
+
 cat All_BPY2_orf_nuc.fa  | python fasta_to_hash_4.py --canonical --report=sequence > BPY2_orf_nuc.signatures 
 
 cat BPY2_orf_nuc.signatures \
